@@ -1,2 +1,2 @@
-# Projeto-Pratico-OO-Java
+# Projeto-Pratico-POO-Java
 Abstraindo um Bootcamp Usando Orientação a Objetos em Java
